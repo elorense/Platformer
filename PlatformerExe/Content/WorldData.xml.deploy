@@ -1,0 +1,814 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <LevelDescription>
+    <Platform1>
+      <PositionInWorldSpace type ="Vector2">
+        <x>500</x>
+        <y>500</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">platform</TextureName>
+    </Platform1>
+    <Platform2>
+      <PositionInWorldSpace type ="Vector2">
+        <x>500</x>
+        <y>400</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">platform</TextureName>
+    </Platform2>
+    <Platform3>
+      <PositionInWorldSpace type ="Vector2">
+        <x>820</x>
+        <y>300</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">platform</TextureName>
+    </Platform3>
+    <Platform4>
+      <PositionInWorldSpace type ="Vector2">
+        <x>820</x>
+        <y>200</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">platform</TextureName>
+    </Platform4>
+    <Platform5>
+      <PositionInWorldSpace type ="Vector2">
+        <x>550</x>
+        <y>100</y>
+      </PositionInWorldSpace>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>550</x>
+          <y>100</y>
+        </Point>
+        <Point>
+          <x>550</x>
+          <y>1000</y>
+        </Point>
+      </PathList>
+      <Speed type ="float">300</Speed>
+      <FallThresh type ="float">650</FallThresh>
+      <CanFall type="bool">true</CanFall>
+      <TextureName type="String">platform</TextureName>
+    </Platform5>
+    <Platform6>
+      <PositionInWorldSpace type ="Vector2">
+        <x>250</x>
+        <y>0</y>
+      </PositionInWorldSpace>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>250</x>
+          <y>0</y>
+        </Point>
+        <Point>
+          <x>250</x>
+          <y>1000</y>
+        </Point>
+      </PathList>
+      <Speed type ="float">300</Speed>
+      <FallThresh type ="float">300</FallThresh>
+      <CanFall type="bool">true</CanFall>
+      <TextureName type="String">platform</TextureName>
+    </Platform6>
+    <Platform7>
+      <PositionInWorldSpace type ="Vector2">
+        <x>550</x>
+        <y>-100</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">platform</TextureName>
+    </Platform7>
+    <Platform8>
+      <PositionInWorldSpace type ="Vector2">
+        <x>550</x>
+        <y>-200</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">platform</TextureName>
+    </Platform8>
+    <Platform9>
+      <PositionInWorldSpace type ="Vector2">
+        <x>550</x>
+        <y>-300</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">platform</TextureName>
+    </Platform9>
+    <Platform10>
+      <PositionInWorldSpace type ="Vector2">
+        <x>400</x>
+        <y>-400</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">platform</TextureName>
+    </Platform10>
+    
+    <Platform11>
+      <PositionInWorldSpace type ="Vector2">
+        <x>1220</x>
+        <y>300</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">platform</TextureName>
+    </Platform11>
+    <Platform12>
+      <PositionInWorldSpace type ="Vector2">
+        <x>1620</x>
+        <y>300</y>
+      </PositionInWorldSpace>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>1620</x>
+          <y>300</y>
+        </Point>
+        <Point>
+          <x>1620</x>
+          <y>1000</y>
+        </Point>
+      </PathList>
+      <Speed type ="float">300</Speed>
+      <FallThresh type ="float">600</FallThresh>
+      <CanFall type="bool">true</CanFall>
+      <TextureName type="String">platform</TextureName>
+    </Platform12>
+    <Platform13>
+      <PositionInWorldSpace type ="Vector2">
+        <x>2020</x>
+        <y>300</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">platform</TextureName>
+    </Platform13>
+    <Platform14>
+      <PositionInWorldSpace type ="Vector2">
+        <x>2380</x>
+        <y>300</y>
+      </PositionInWorldSpace>
+      <IsMoving type ="bool">true</IsMoving>
+      <ReverseOnPathEnd type ="bool">true</ReverseOnPathEnd>
+      <Speed type ="float">320</Speed>
+      <TextureName type ="String">platform</TextureName>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>2380</x>
+          <y>300</y>
+        </Point>
+        <Point>
+          <x>2620</x>
+          <y>300</y>
+        </Point>
+      </PathList>
+    </Platform14>
+    <Platform15>
+      <PositionInWorldSpace type ="Vector2">
+        <x>3100</x>
+        <y>200</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">platform</TextureName>
+    </Platform15>
+
+    <Platform16>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-1340</x>
+        <y>-400</y>
+      </PositionInWorldSpace>
+      <IsMoving type ="bool">true</IsMoving>
+      <ReverseOnPathEnd type ="bool">true</ReverseOnPathEnd>
+      <Speed type ="float">320</Speed>
+      <TextureName type ="String">platform</TextureName>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>-1340</x>
+          <y>-400</y>
+        </Point>
+        <Point>
+          <x>-560</x>
+          <y>-400</y>
+        </Point>
+      </PathList>
+    </Platform16>
+
+    <Platform17>
+      <PositionInWorldSpace type ="Vector2">
+        <x>1300</x>
+        <y>-480</y>
+      </PositionInWorldSpace>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>1300</x>
+          <y>-480</y>
+        </Point>
+        <Point>
+          <x>1300</x>
+          <y>50</y>
+        </Point>
+      </PathList>
+      <Speed type ="float">100</Speed>
+      <FallThresh type ="float">1000</FallThresh>
+      <CanFall type="bool">true</CanFall>
+      <TextureName type="String">platform</TextureName>
+    </Platform17>
+
+    <Platform18>
+      <PositionInWorldSpace type ="Vector2">
+        <x>2250</x>
+        <y>-480</y>
+      </PositionInWorldSpace>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>2250</x>
+          <y>-480</y>
+        </Point>
+        <Point>
+          <x>2250</x>
+          <y>50</y>
+        </Point>
+      </PathList>
+      <Speed type ="float">300</Speed>
+      <FallThresh type ="float">1000</FallThresh>
+      <CanFall type="bool">true</CanFall>
+      <TextureName type="String">platform</TextureName>
+    </Platform18>
+
+    <Platform19>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-300</x>
+        <y>500</y>
+      </PositionInWorldSpace>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>-300</x>
+          <y>500</y>
+        </Point>
+        <Point>
+          <x>550</x>
+          <y>0</y>
+        </Point>
+        <Point>
+          <x>400</x>
+          <y>-200</y>
+        </Point>
+        <Point>
+          <x>300</x>
+          <y>0</y>
+        </Point>
+        <Point>
+          <x>-300</x>
+          <y>500</y>
+        </Point>
+        <Point>
+          <x>550</x>
+          <y>0</y>
+        </Point>
+      </PathList>
+      <Speed type ="float">200</Speed>
+      <FallThresh type ="float">650</FallThresh>
+      <CanFall type="bool">true</CanFall>
+      <TextureName type="String">platform</TextureName>
+    </Platform19>
+
+    <Floor1>
+      <PositionInWorldSpace type ="Vector2">
+        <x>0</x>
+        <y>680</y>
+      </PositionInWorldSpace>
+      <TextureName type ="String">brickFloor</TextureName>
+    </Floor1>
+    <Floor2>
+      <PositionInWorldSpace type ="Vector2">
+        <x>2640</x>
+        <y>680</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">brickFloor</TextureName>
+    </Floor2>
+    <Floor3>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-150</x>
+        <y>-300</y>
+      </PositionInWorldSpace>
+      <TextureName type ="String">smallBrickFloor</TextureName>
+    </Floor3>
+    <Floor3>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-1750</x>
+        <y>-300</y>
+      </PositionInWorldSpace>
+      <TextureName type ="String">smallBrickFloor</TextureName>
+    </Floor3>
+    <Floor4>
+      <PositionInWorldSpace type ="Vector2">
+        <x>2000</x>
+        <y>-300</y>
+      </PositionInWorldSpace>
+      <TextureName type ="String">brickFloor</TextureName>
+    </Floor4>
+    <Floor5>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-2500</x>
+        <y>680</y>
+      </PositionInWorldSpace>
+      <TextureName type ="String">smallBrickFloor</TextureName>
+    </Floor5>
+    
+    <Treasure>
+      <PositionInWorldSpace type ="Vector2">
+        <x>3100</x>
+        <y>200</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">treasure</TextureName>
+    </Treasure>
+    <PortPad1>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-2400</x>
+        <y>570</y>
+      </PositionInWorldSpace>
+      <PosToPort type="Vector2">
+        <x>3050</x>
+        <y>100</y>
+      </PosToPort>
+      <TextureName type="String">bottomPort</TextureName>
+    </PortPad1>
+    <PortPad1>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-2400</x>
+        <y>530</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">topPort</TextureName>
+    </PortPad1>
+    <LetterA>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-2403</x>
+        <y>500</y>
+      </PositionInWorldSpace>
+      <IsTransparent type="bool">true</IsTransparent>
+      <TextureName type="String">xboxB</TextureName>
+    </LetterA>
+    <CheckPoint1>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-500</x>
+        <y>560</y>
+      </PositionInWorldSpace>
+      <IsTransparent type="bool">true</IsTransparent>
+      <stringID type ="String">checkPoint</stringID>
+      <PosToPort type="Vector2">
+        <x>-500</x>
+        <y>560</y>
+      </PosToPort>
+      <TextureName type="String">exclaimation</TextureName>
+    </CheckPoint1>
+    <CheckPoint2>
+      <PositionInWorldSpace type ="Vector2">
+        <x>500</x>
+        <y>-450</y>
+      </PositionInWorldSpace>
+      <IsTransparent type="bool">true</IsTransparent>
+      <stringID type ="String">checkPoint</stringID>
+      <PosToPort type="Vector2">
+        <x>500</x>
+        <y>-450</y>
+      </PosToPort>
+      <TextureName type="String">exclaimation</TextureName>b
+    </CheckPoint2>
+    
+    <NPC1>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-1900</x>
+        <y>-410</y>
+      </PositionInWorldSpace>
+      <DialogueText type="String">
+        You know you want to jump down. 
+      </DialogueText>
+      <TextureName type="String">npc1</TextureName>
+      <DoesTalk type="bool">true</DoesTalk>
+    </NPC1>
+    <LetterA>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-1899</x>
+        <y>-460</y>
+      </PositionInWorldSpace>
+      <IsTransparent type="bool">true</IsTransparent>
+      <TextureName type="String">xboxB</TextureName>
+    </LetterA>
+
+    <NPC2>
+      <PositionInWorldSpace type ="Vector2">
+        <x>3350</x>
+        <y>580</y>
+      </PositionInWorldSpace>
+      <DialogueText type="String">I've been trying to get that treasure for days.@That jump seems impossible.@If only there were some other ways...</DialogueText>
+      <TextureName type="String">minerSpriteFlipped</TextureName>
+      <DoesTalk type="bool">true</DoesTalk>
+    </NPC2>
+    <LetterA>
+      <PositionInWorldSpace type ="Vector2">
+        <x>3351</x>
+        <y>530</y>
+      </PositionInWorldSpace>
+      <IsTransparent type="bool">true</IsTransparent>
+      <TextureName type="String">xboxB</TextureName>
+    </LetterA>
+
+    <NPC3>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-750</x>
+        <y>580</y>
+      </PositionInWorldSpace>
+      <DialogueText type="String">I hear there's treasure out there!@My buddy's out looking for it.@He's just up ahead.</DialogueText>
+      <TextureName type="String">minerSprite</TextureName>
+      <DoesTalk type="bool">true</DoesTalk>
+    </NPC3>
+    <LetterA>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-749</x>
+        <y>530</y>
+      </PositionInWorldSpace>
+      <IsTransparent type="bool">true</IsTransparent>
+      <TextureName type="String">xboxB</TextureName>
+    </LetterA>
+
+    <NPC4>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-1200</x>
+        <y>580</y>
+      </PositionInWorldSpace>
+      <DialogueText type="String">I think I see something way out there...@Hope they come back with the treasure soon.</DialogueText>
+      <TextureName type="String">minerSpriteFlipped2</TextureName>
+      <DoesTalk type="bool">true</DoesTalk>
+    </NPC4>
+    <LetterA>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-1201</x>
+        <y>530</y>
+      </PositionInWorldSpace>
+      <IsTransparent type="bool">true</IsTransparent>
+      <TextureName type="String">xboxB</TextureName>
+    </LetterA>
+
+    <NPC5>
+      <PositionInWorldSpace type ="Vector2">
+        <x>3150</x>
+        <y>-400</y>
+      </PositionInWorldSpace>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>3150</x>
+          <y>-400</y>
+        </Point>
+      </PathList>
+      <DialogueText type="String">We're right above the treasure!@I'm trying to dig a hole through.@If you're in such a hurry, why not just jump?!</DialogueText>
+      <TextureName type="String">minerSpriteFlipped2</TextureName>
+      <DoesTalk type="bool">true</DoesTalk>
+      <WalkingTextureName type="String">minerSpriteFlipped</WalkingTextureName>
+      <IsTransparent type="bool">true</IsTransparent>
+      <DoesWalk type ="bool">true</DoesWalk>
+    </NPC5>
+    <LetterA>
+      <PositionInWorldSpace type ="Vector2">
+        <x>3151</x>
+        <y>-450</y>
+      </PositionInWorldSpace>
+      <IsTransparent type="bool">true</IsTransparent>
+      <TextureName type="String">xboxB</TextureName>
+    </LetterA>
+
+    <Enemy1>
+      <PositionInWorldSpace type ="Vector2">
+        <x>350</x>
+        <y>350</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">spikeyBall</TextureName>
+      <IsMoving type="bool">true</IsMoving>
+      <ReverseOnPathEnd type ="bool">false</ReverseOnPathEnd>
+      <Speed type ="float">620</Speed>
+      <DoesHurt type ="bool">true</DoesHurt>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>350</x>
+          <y>350</y>
+        </Point>
+        <Point>
+          <x>350</x>
+          <y>450</y>
+        </Point>
+        <Point>
+          <x>660</x>
+          <y>450</y>
+        </Point>
+        <Point>
+          <x>660</x>
+          <y>550</y>
+        </Point>
+        <Point>
+          <x>350</x>
+          <y>550</y>
+        </Point>
+        <Point>
+          <x>350</x>
+          <y>450</y>
+        </Point>
+        <Point>
+          <x>660</x>
+          <y>450</y>
+        </Point>
+        <Point>
+          <x>660</x>
+          <y>350</y>
+        </Point>
+      </PathList>
+    </Enemy1>
+    <Enemy2>
+      <PositionInWorldSpace type ="Vector2">
+        <x>670</x>
+        <y>160</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">spikeyBall</TextureName>
+      <IsMoving type="bool">true</IsMoving>
+      <ReverseOnPathEnd type ="bool">false</ReverseOnPathEnd>
+      <Speed type ="float">520</Speed>
+      <DoesHurt type ="bool">true</DoesHurt>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>670</x>
+          <y>160</y>
+        </Point>
+        <Point>
+          <x>670</x>
+          <y>260</y>
+        </Point>
+        <Point>
+          <x>980</x>
+          <y>260</y>
+        </Point>
+        <Point>
+          <x>980</x>
+          <y>360</y>
+        </Point>
+        <Point>
+          <x>670</x>
+          <y>360</y>
+        </Point>
+        <Point>
+          <x>670</x>
+          <y>260</y>
+        </Point>
+        <Point>
+          <x>980</x>
+          <y>260</y>
+        </Point>
+        <Point>
+          <x>980</x>
+          <y>160</y>
+        </Point>
+      </PathList>
+    </Enemy2>
+    <Enemy3>
+      <PositionInWorldSpace type ="Vector2">
+        <x>400</x>
+        <y>-350</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">spikeyBall</TextureName>
+      <IsMoving type="bool">true</IsMoving>
+      <ReverseOnPathEnd type ="bool">false</ReverseOnPathEnd>
+      <Speed type ="float">480</Speed>
+      <DoesHurt type ="bool">true</DoesHurt>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>400</x>
+          <y>-350</y>
+        </Point>
+        <Point>
+          <x>400</x>
+          <y>-250</y>
+        </Point>
+        <Point>
+          <x>710</x>
+          <y>-250</y>
+        </Point>
+        <Point>
+          <x>710</x>
+          <y>-150</y>
+        </Point>
+        <Point>
+          <x>400</x>
+          <y>-150</y>
+        </Point>
+        <Point>
+          <x>400</x>
+          <y>-50</y>
+        </Point>
+        <Point>
+          <x>710</x>
+          <y>-50</y>
+        </Point>
+        <Point>
+          <x>710</x>
+          <y>-150</y>
+        </Point>
+        <Point>
+          <x>400</x>
+          <y>-150</y>
+        </Point>
+        <Point>
+          <x>400</x>
+          <y>-250</y>
+        </Point>
+        <Point>
+          <x>710</x>
+          <y>-250</y>
+        </Point>
+        <Point>
+          <x>710</x>
+          <y>-350</y>
+        </Point>
+      </PathList>
+    </Enemy3>
+    <Enemy4>
+      <PositionInWorldSpace type ="Vector2">
+        <x>200</x>
+        <y>-700</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">spikeyBall</TextureName>
+      <IsMoving type="bool">true</IsMoving>
+      <ReverseOnPathEnd type ="bool">false</ReverseOnPathEnd>
+      <Speed type ="float">480</Speed>
+      <DoesHurt type ="bool">true</DoesHurt>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>200</x>
+          <y>-600</y>
+        </Point>
+        <Point>
+          <x>200</x>
+          <y>-300</y>
+        </Point>
+      </PathList>
+    </Enemy4>
+    <Enemy5>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-600</x>
+        <y>-550</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">spikeyBall</TextureName>
+      <IsMoving type="bool">true</IsMoving>
+      <ReverseOnPathEnd type ="bool">true</ReverseOnPathEnd>
+      <Speed type ="float">220</Speed>
+      <DoesHurt type ="bool">true</DoesHurt>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>-600</x>
+          <y>-550</y>
+        </Point>
+        <Point>
+          <x>-850</x>
+          <y>-300</y>
+        </Point>
+        <Point>
+          <x>-1100</x>
+          <y>-550</y>
+        </Point>
+        <Point>
+          <x>-1350</x>
+          <y>-300</y>
+        </Point>
+      </PathList>
+    </Enemy5>
+    <Enemy6>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-1350</x>
+        <y>-550</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">spikeyBall</TextureName>
+      <IsMoving type="bool">true</IsMoving>
+      <ReverseOnPathEnd type ="bool">true</ReverseOnPathEnd>
+      <Speed type ="float">220</Speed>
+      <DoesHurt type ="bool">true</DoesHurt>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>-1350</x>
+          <y>-550</y>
+        </Point>
+        <Point>
+          <x>-1100</x>
+          <y>-300</y>
+        </Point>
+        <Point>
+          <x>-850</x>
+          <y>-550</y>
+        </Point>
+        <Point>
+          <x>-600</x>
+          <y>-300</y>
+        </Point>
+      </PathList>
+    </Enemy6>
+    
+    <YetiEnemy1>
+      <PositionInWorldSpace type ="Vector2">
+        <x>0</x>
+        <y>550</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">smallYeti</TextureName>
+      <WalkingTextureName type="String">smallYeti2</WalkingTextureName>
+      <DoesWalk type ="bool">true</DoesWalk>
+      <IsMoving type="bool">true</IsMoving>
+      <ReverseOnPathEnd type ="bool">false</ReverseOnPathEnd>
+      <Speed type ="float">100</Speed>
+      <DoesHurt type ="bool">true</DoesHurt>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>0</x>
+          <y>550</y>
+        </Point>
+        <Point>
+          <x>500</x>
+          <y>550</y>
+        </Point>
+      </PathList>
+    </YetiEnemy1>
+    <YetiEnemy2>
+      <PositionInWorldSpace type ="Vector2">
+        <x>-300</x>
+        <y>-430</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">smallYeti</TextureName>
+      <WalkingTextureName type="String">smallYeti2</WalkingTextureName>
+      <DoesWalk type ="bool">true</DoesWalk>
+      <IsMoving type="bool">true</IsMoving>
+      <ReverseOnPathEnd type ="bool">false</ReverseOnPathEnd>
+      <Speed type ="float">200</Speed>
+      <DoesHurt type ="bool">true</DoesHurt>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>-380</x>
+          <y>-430</y>
+        </Point>
+        <Point>
+          <x>80</x>
+          <y>-430</y>
+        </Point>
+      </PathList>
+    </YetiEnemy2>
+    <YetiEnemy3>
+      <PositionInWorldSpace type ="Vector2">
+        <x>1120</x>
+        <y>265</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">smallYeti</TextureName>
+      <WalkingTextureName type="String">smallYeti2</WalkingTextureName>
+      <DoesWalk type ="bool">true</DoesWalk>
+      <IsMoving type="bool">true</IsMoving>
+      <ReverseOnPathEnd type ="bool">false</ReverseOnPathEnd>
+      <Speed type ="float">100</Speed>
+      <DoesHurt type ="bool">true</DoesHurt>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>1120</x>
+          <y>270</y>
+        </Point>
+        <Point>
+          <x>1320</x>
+          <y>265</y>
+        </Point>
+      </PathList>
+    </YetiEnemy3>
+
+    <BigYetiEnemy1>
+      <PositionInWorldSpace type ="Vector2">
+        <x>900</x>
+        <y>-500</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">bigYeti</TextureName>
+      <WalkingTextureName type="String">bigYeti2</WalkingTextureName>
+      <DoesWalk type ="bool">true</DoesWalk>
+      <IsMoving type="bool">true</IsMoving>
+      <ReverseOnPathEnd type ="bool">false</ReverseOnPathEnd>
+      <Speed type ="float">100</Speed>
+      <DoesHurt type ="bool">true</DoesHurt>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>900</x>
+          <y>-500</y>
+        </Point>
+        <Point>
+          <x>1700</x>
+          <y>-500</y>
+        </Point>
+      </PathList>
+    </BigYetiEnemy1>
+    <BigYetiEnemy2>
+      <PositionInWorldSpace type ="Vector2">
+        <x>1850</x>
+        <y>-500</y>
+      </PositionInWorldSpace>
+      <TextureName type="String">bigYeti</TextureName>
+      <WalkingTextureName type="String">bigYeti2</WalkingTextureName>
+      <DoesWalk type ="bool">true</DoesWalk>
+      <IsMoving type="bool">true</IsMoving>
+      <ReverseOnPathEnd type ="bool">false</ReverseOnPathEnd>
+      <Speed type ="float">300</Speed>
+      <DoesHurt type ="bool">true</DoesHurt>
+      <PathList type ="Vector2List">
+        <Point>
+          <x>1850</x>
+          <y>-500</y>
+        </Point>
+        <Point>
+          <x>2650</x>
+          <y>-500</y>
+        </Point>
+      </PathList>
+    </BigYetiEnemy2>
+  
+  </LevelDescription>

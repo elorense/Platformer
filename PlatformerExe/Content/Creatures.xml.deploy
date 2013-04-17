@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Creatures>
+  <YetiEnemy1>
+    <PositionInWorldSpace type ="Vector2">
+      <x>-200</x>
+      <y>550</y>
+    </PositionInWorldSpace>
+    <TextureName type="String">smallYeti</TextureName>
+    <WalkingTextureName type="String">smallYeti2</WalkingTextureName>
+    <DoesWalk type ="bool">true</DoesWalk>
+    <IsMoving type="bool">true</IsMoving>
+    <ReverseOnPathEnd type ="bool">false</ReverseOnPathEnd>
+    <Speed type ="float">100</Speed>
+    <DoesHurt type ="bool">true</DoesHurt>
+    <PathList type ="Vector2List">
+      <Point>
+        <x>-200</x>
+        <y>550</y>
+      </Point>
+      <Point>
+        <x>0</x>
+        <y>550</y>
+      </Point>
+    </PathList>
+  </YetiEnemy1>
+</Creatures>
