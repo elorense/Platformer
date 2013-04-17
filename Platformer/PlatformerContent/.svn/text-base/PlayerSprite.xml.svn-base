@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Platformer.PlayerData[]">
+    <Item>
+      <spriteName>frySprite</spriteName>
+      <spriteFlipped>minerSpriteFlipped</spriteFlipped>
+      <spriteWalking>fryWalking</spriteWalking>
+      <spriteJumping>fryJump</spriteJumping>
+      <jumpSound>jumpSound</jumpSound>
+      <landSound>landSound</landSound>
+      <health>100</health>
+      <jumpDistance>100</jumpDistance>
+      <topSpeed>6</topSpeed>
+      <jumpSpeed>9</jumpSpeed>
+      <speed>2</speed>
+      <center>50 40</center>
+      <startingPoint>-500 500</startingPoint>
+    </Item>
+  </Asset>
+</XnaContent>

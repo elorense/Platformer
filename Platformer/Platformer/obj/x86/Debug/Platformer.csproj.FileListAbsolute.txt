@@ -1,0 +1,74 @@
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\minerAnimation.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\PlayerSprite.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\minerAnimFlipped.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\brickFloor.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\WorldFile.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\brickFloorTop.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\treasure.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\minerSprite.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\minerSpriteFlipped.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\jumpSound.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\landSound.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\DataLibrary.dll
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\DataLibrary.pdb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\WorldData.xml
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\spikeyBall.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\fryJump.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\frySprite.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\fryWalking.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\platform.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\smallBrickFloor.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\smallYeti.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\smallYeti2.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\bottomPort.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\topPort.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\xboxA.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\npc1.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\minerSpriteFlipped2.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\bigYeti.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\bigYeti2.xnb
+C:\Users\Edric\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\xboxB.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\minerAnimation.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\minerAnimFlipped.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\brickFloor.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\brickFloorTop.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\treasure.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\minerSprite.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\minerSpriteFlipped.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\spikeyBall.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\fryJump.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\frySprite.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\fryWalking.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\platform.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\smallBrickFloor.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\smallYeti.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\smallYeti2.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\bottomPort.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\topPort.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\xboxA.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\npc1.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\minerSpriteFlipped2.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\bigYeti.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\bigYeti2.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\xboxB.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\PlayerSprite.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\WorldFile.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\jumpSound.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\landSound.xnb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Content\WorldData.xml
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\DataLibrary.dll
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\bin\x86\Debug\DataLibrary.pdb
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\Edric\Desktop\elorense\cs420\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb

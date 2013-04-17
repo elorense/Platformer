@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Platformer.WorldData[]">
+    <Item>
+      <stageName>firstStage</stageName>
+      <floorName>brickFloor</floorName>
+      <floorTop>brickFloorTop</floorTop>
+      <platformName>brickFloorTop</platformName>
+      <treasureName>treasure</treasureName>
+      <floorCount>2</floorCount>
+      <platFormCount>8</platFormCount>
+      <stageStart>-2800</stageStart>
+      <stageEnd>3860</stageEnd>
+      <stageTop>-360</stageTop>
+      <stageBottom>0</stageBottom>
+      <treasureLocation>2370 200</treasureLocation>
+      <floorLocation Type ="Microsoft.Xna.Framework.Vector2[]">
+        0 818 2600 818
+      </floorLocation>
+      <platformLocations Type ="Microsoft.Xna.Framework.Vector2[]">
+        500 500 1000 500 500 425 500 350 1000 350 1500 350 1750 275 2200 200
+      </platformLocations>
+      <movingPlatList Type ="System.Int32[]">
+        0 0 0 0 0 1 0 2
+      </movingPlatList>
+      <moveDistance>50</moveDistance>
+    </Item>
+  </Asset>
+</XnaContent>
